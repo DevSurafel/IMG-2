@@ -23,7 +23,7 @@ MESSAGE_TEXT = (
     "🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁\n"
     "🎁🎁🎁 10,000 ETB 🎁🎁🎁🎁\n"
     "🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁🎁</a>\n\n"
-    "DIGITAL BIRR - BY ETHIOPIAN AIRLINES ✈️\n\n"
+    "ETHIO TELECOM \n\n"
 )
 
 async def send_message_with_image(bot):
